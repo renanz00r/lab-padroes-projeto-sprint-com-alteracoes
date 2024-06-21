@@ -4,3 +4,7 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+
+
+
+Nao Entendi muito bem o projeto, entao fiz umas alteracoes baseadas neste ja feito
